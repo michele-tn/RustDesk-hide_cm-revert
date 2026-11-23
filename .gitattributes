@@ -1,0 +1,4 @@
+* text=auto
+*.patch -text
+*.zip binary
+*.sha256 text eol=lf
